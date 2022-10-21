@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 New line added on the github repository
 
 This is for pull command
+
+This is for push command
